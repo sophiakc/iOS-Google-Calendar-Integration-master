@@ -13,7 +13,7 @@ import UIKit
 class ViewController: UIViewController {
     
     fileprivate let kKeychainItemName = "Google Calendar API"
-    fileprivate let kClientID = "157920455123-i6alke6riu30fkdqqnscit30p8s78rfp.apps.googleusercontent.com"
+    fileprivate let kClientID = "YOUR_CLIENT_ID_HERE"
     
     // If modifying these scopes, delete your previously saved credentials by
     // resetting the iOS simulator or uninstall the app.
