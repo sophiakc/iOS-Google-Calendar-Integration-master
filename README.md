@@ -8,7 +8,7 @@ Programmatically animated with Swift (iOS).
 ### Created by 
 [**Sophia Kecir Camper**](https://github.com/sophiakc)
 
-1. Forked [this repo]()
+1. Forked [this repo](https://github.com/johnnycaol/iOS-Google-Calendar-Integration)
 2. Added my own Client ID
 3. Obtained the same error 403 as the file [GoogleCalendarConnect](https://github.com/sophiakc/GoogleCalendarConnect)
 
